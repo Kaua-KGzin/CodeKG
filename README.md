@@ -66,10 +66,10 @@ Quebrar
 
 Arrumar
 
-Melhorar (provavelmente fácil)
+Melhorar (provavelmente fácil) 
 
 Só não espere um código bonito ou elegante. Espere algo funcional e MUITO MAS MUITO cometado.
-
+( só falar que envio o projeto )
 📄 Licença
 
 Uso livre.
